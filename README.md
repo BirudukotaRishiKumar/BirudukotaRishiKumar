@@ -4,9 +4,9 @@ Web Development made me fall in love with coding and building exciting products!
 
 - ⚡ I am a Civil Engineer, but Youtube helped me.
 - 🌍 I'm based in **Inida**
-- ✉️ You can contact me at **birudhukotarishi1203@gmail.com**
+- ✉️ You can Contact me at **birudhukotarishi1203@gmail.com**
 - 🧠 I'm learning **DSA**
-- 🤝 I'm open to collaborating on interesting projects
+- 🤝 Open to Collaborating on Interesting Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
