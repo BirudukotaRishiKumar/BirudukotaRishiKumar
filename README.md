@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">Software Engineer</h3>
-Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
-
-- ⚡ I am a Civil Engineer, but Youtube helped me.
+Web development tricked me into loving coding, and now I can't stop building cool stuff! Also, tech and communities kinda have my heart... no big deal ❤️
+- ⚡ Civil Engineer by degree, Coder by YouTube’s grace!
 - 🌍 I'm based in **Inida**
-- ✉️ You can Contact me at **birudhukotarishi1203@gmail.com**
-- 🧠 I'm learning **DSA**
-- 🤝 Open to Collaborating on Interesting Projects
+- ✉️ Reach out to me at **birudhukotarishi1203@gmail.com**
+- 🧠 Diving Deep into DSA... Pray for me!
+- 🤝 If your project is fun and challenging, count me in!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
