@@ -7,6 +7,8 @@ Web development tricked me into loving coding, and now I can't stop building coo
 - ✉️ Reach out to me at **birudhukotarishi1203@gmail.com**
 - 🧠 Diving Deep into **DSA**... Pray for me!
 - 🤝 If your Project is **Fun and Challenging**, Count me in!
+- Learn Full Stack <a href="ℎ𝑡𝑡𝑝𝑠://𝑐𝑐𝑏𝑝.𝑝𝑎𝑔𝑒.𝑙𝑖𝑛𝑘/𝐷1𝑓𝑋𝑡9𝑢𝐷2𝑡𝐺𝐽3𝐸𝐵𝐸7" target="blank">Here!!</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +22,4 @@ Web development tricked me into loving coding, and now I can't stop building coo
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=birudukotarishikumar&show_icons=true&locale=en&layout=compact" alt="birudukotarishikumar" /></p>
 
-<h3 align="left">Learn Full Stack:</h3>
-- Started my Journey to Land a high-paying Software Job with CCBP 4.0! 
-🎉 Get a ₹16,000/- scholarship. Apply now and book a career guidance call here: ⬇️
-ℎ𝑡𝑡𝑝𝑠://𝑐𝑐𝑏𝑝.𝑝𝑎𝑔𝑒.𝑙𝑖𝑛𝑘/𝐷1𝑓𝑋𝑡9𝑢𝐷2𝑡𝐺𝐽3𝐸𝐵𝐸7
+
