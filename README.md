@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">Software Engineer</h3>
+Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
+- ⚡ I am a Civil Engineer, but Youtube helped me.
 - 🌍 I'm based in **Inida**
-
-- 🧠 You can contact me at **birudhukotarishi1203@gmail.com**
+- ✉️ You can contact me at **birudhukotarishi1203@gmail.com**
 - 🧠 I'm learning **DSA**
-- I'm open to collaborating on interesting **projects**
-- 
+- 🤝 I'm open to collaborating on interesting projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
