@@ -6,7 +6,7 @@ Web development tricked me into loving coding, and now I can't stop building coo
 - 🌍 I'm based in **Inida**
 - ✉️ Reach out to me at **birudhukotarishi1203@gmail.com**
 - 🧠 Diving Deep into DSA... **Pray for me!**
-- 🤝 If your project is Fun and Challenging, **Count me in!**
+- 🤝 If your Project is **Fun and Challenging**, Count me in!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
