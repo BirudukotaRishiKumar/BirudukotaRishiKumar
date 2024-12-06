@@ -1,60 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**BirudukotaRishiKumar/BirudukotaRishiKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=birudukotarishikumar&label=Profile%20views&color=0e75b6&style=flat" alt="birudukotarishikumar" /> </p>
 
-Here are some ideas to get you started:
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishikumarbirudukota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishikumarbirudukota/" height="30" width="40" /></a>
+<a href="https://instagram.com/rishi_always_kushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi_always_kushi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/need_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="need_coder" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working as a **Full-Stack .NET Developer** at **Capgemini**, contributing to app modernization by improving system efficiency by 15%, enhancing unit testing with a 25% coverage increase, and stabilizing applications through bug fixes.
-- 🌱 I’m currently improving my professional communication skills and exploring advanced concepts in **Data Structures**, **Algorithms**, and modern **.NET Core** and **Angular** frameworks.
-- 👯 I’m looking to collaborate on **full-stack development projects**, particularly in eCommerce, job search platforms, or innovative tools that solve real-world problems.
-- 🤔 I’m looking for help with mastering **performance optimization** for large-scale applications and expanding my knowledge in **data science technologies**.
-- 💬 Ask me about **.NET Development**, **Angular**, **React.js**, or building user-friendly and scalable web applications.
-- 📫 How to reach me:
-  - **LinkedIn**: [Rishi Kumar](#)
-  - **Instagram**: [@YourUsername](#)
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts:
-  - I'm a fitness enthusiast focusing on **compound exercises** and staying healthy while managing my tech career.  
-  - I actively share fun, engaging job-related and tech content on Instagram to inspire my community!  
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tech Stack
-- **Frontend**: Angular, React.js, HTML, CSS, JavaScript  
-- **Backend**: .NET Core, Entity Framework, C#  
-- **Databases**: SQL Server  
-- **Others**: Git, REST APIs  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=birudukotarishikumar&show_icons=true&locale=en&layout=compact" alt="birudukotarishikumar" /></p>
 
----
-
-## 🌟 Projects
-- **EKART Ecommerce Application**:  
-  Built a scalable eCommerce platform with features for both customers and administrators.  
-  - **Tech Stack**: .NET Core, Angular, Entity Framework, SQL Server.
-
-- **JOBBY App**:  
-  A user-friendly job search application with filtering options and secure login.  
-  - **Tech Stack**: React.js, Local Storage.
-
-- **Food Munch**:  
-  A responsive website for seamless food browsing.  
-
----
-
-## 🎓 Certifications
-- Microsoft Azure Fundamentals (78%)  
-- Software Engineer .NET Apps Level-1 (Capgemini)  
-- GitHub Copilot Fundamentals (Pluralsight)  
-- Hyperscaler Certification Training  
-
----
-
-## 📚 Career Highlights
-- Worked on **App Modernization - 1GOO Application** at Capgemini, streamlining processes and boosting efficiency by 15%.  
-- Enhanced test coverage and stabilized applications by identifying and resolving critical bugs.  
-- Interned at **Bharat Intern** as a Full-Stack Developer, contributing to **UI/UX design** and project management tools.  
-
----
-
-🌟 **Let’s Collaborate, Innovate, and Build!** 🌟
