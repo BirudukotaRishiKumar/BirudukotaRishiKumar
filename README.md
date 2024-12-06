@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">Software Engineer</h3>
-Web development tricked me into loving coding, and now I can't stop building cool stuff! Also, tech and communities kinda have my heart... no big deal ❤️
+ Web development tricked me into loving coding, and now I can't stop building cool stuff! Also, tech and communities kinda have my heart... no big deal ❤️
+
 
 - ⚡ **Civil Engineer** by Degree, **Coder** by YouTube’s grace!
 - 🌍 I'm based in **Inida**
