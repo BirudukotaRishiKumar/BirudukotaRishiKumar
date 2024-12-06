@@ -7,7 +7,7 @@ Web development tricked me into loving coding, and now I can't stop building coo
 - ✉️ Reach out to me at **birudhukotarishi1203@gmail.com**
 - 🧠 Diving Deep into **DSA**... Pray for me!
 - 🤝 If your Project is **Fun and Challenging**, Count me in!
-- Learn Full Stack <a href="ℎ𝑡𝑡𝑝𝑠://𝑐𝑐𝑏𝑝.𝑝𝑎𝑔𝑒.𝑙𝑖𝑛𝑘/𝐷1𝑓𝑋𝑡9𝑢𝐷2𝑡𝐺𝐽3𝐸𝐵𝐸7" target="blank">Here!!</a>
+- 💻 Want to learn Full Stack [Click Here!](https://ccbp.page.link/D1fXt9uD2tGJ3EBE7)
 
 
 <h3 align="left">Connect with me:</h3>
