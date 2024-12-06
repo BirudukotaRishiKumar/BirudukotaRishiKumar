@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌍 I'm based in India **I'm based in India**
+- 🌍 I'm based in **Inida**
 
-- 🧠 I'm learning DSA [I'm learning DSA](I'm learning DSA)
+- 🧠 You can contact me at **birudhukotarishi1203@gmail.com**
+- 🧠 I'm learning **DSA**
+- I'm open to collaborating on interesting **projects**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
